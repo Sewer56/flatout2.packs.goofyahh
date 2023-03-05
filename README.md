@@ -10,7 +10,7 @@ Behold: The Monstrosity of all mods is here!
 
 Yeah... that's all.
 
-[Click Me To Download](https://github.com/Sewer56/flatout2.packs.selo/releases/download/1.3.0/Selo.s_Mod_Pack1.3.0.7z).
+[Click Me To Download](https://github.com/Sewer56/flatout2.packs.goofyahh/releases/download/5.9.0/Goofy_Ahh_Mod5.9.0.7z).
 
 Don't know how to install? Don't skip the in-launcher tutorial 😉.  
 
